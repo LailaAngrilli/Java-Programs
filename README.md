@@ -5,3 +5,4 @@ Collection of programs in Java
 
 Program List:
 <li>FizzBuzz Test</li>
+<li>Advent of Code 2024</li>
